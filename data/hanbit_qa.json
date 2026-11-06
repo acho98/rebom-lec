@@ -1,0 +1,164 @@
+[
+ {
+  "id": 1,
+  "type": "table",
+  "section": "2",
+  "table": "t1_domestic",
+  "q": "과장의 국내 출장 일비는 하루 얼마인가?",
+  "a": "30,000원",
+  "keywords": [
+   "30,000"
+  ]
+ },
+ {
+  "id": 2,
+  "type": "table",
+  "section": "2",
+  "table": "t1_domestic",
+  "q": "부장이 국내 출장을 갈 때 숙박비 상한은 1박에 얼마인가?",
+  "a": "150,000원",
+  "keywords": [
+   "150,000"
+  ]
+ },
+ {
+  "id": 3,
+  "type": "table",
+  "section": "3",
+  "table": "t2_overseas",
+  "q": "차장이 유럽으로 출장을 가면 하루 일비는 몇 달러인가?",
+  "a": "80달러(USD)",
+  "keywords": [
+   "80"
+  ]
+ },
+ {
+  "id": 4,
+  "type": "table",
+  "section": "3",
+  "table": "t2_overseas",
+  "q": "동남아시아 출장 시 숙박비 상한은 1박에 몇 달러인가?",
+  "a": "120달러(USD)",
+  "keywords": [
+   "120"
+  ]
+ },
+ {
+  "id": 5,
+  "type": "table",
+  "section": "4",
+  "table": "t4_family_leave",
+  "q": "배우자가 출산하면 경조사 휴가를 며칠 쓸 수 있는가?",
+  "a": "10일 (출산일로부터 90일 이내, 2회 분할 가능)",
+  "keywords": [
+   "10일"
+  ]
+ },
+ {
+  "id": 6,
+  "type": "table",
+  "section": "4",
+  "table": "t3_annual_leave",
+  "q": "근속 5년차 직원의 연차휴가는 며칠인가?",
+  "a": "17일",
+  "keywords": [
+   "17일"
+  ]
+ },
+ {
+  "id": 7,
+  "type": "table",
+  "section": "5",
+  "table": "t5_condolence",
+  "q": "본인이 결혼하면 경조금은 얼마이고 화환은 지급되는가?",
+  "a": "500,000원, 화환 지급",
+  "keywords": [
+   "500,000"
+  ]
+ },
+ {
+  "id": 8,
+  "type": "table",
+  "section": "5",
+  "table": "t6_education",
+  "q": "어학 교육비는 월 얼마까지 지원되는가?",
+  "a": "월 100,000원 (수료증 제출 시)",
+  "keywords": [
+   "100,000"
+  ]
+ },
+ {
+  "id": 9,
+  "type": "table+text",
+  "section": "5",
+  "table": "t6_education",
+  "q": "학위 과정 교육비 지원을 받으려면 근속 조건이 어떻게 되는가?",
+  "a": "근속 3년 이상이어야 하고, 수료 후 3년 의무 근속",
+  "keywords": [
+   "3년"
+  ]
+ },
+ {
+  "id": 10,
+  "type": "text",
+  "section": "2",
+  "table": null,
+  "q": "자가 차량으로 출장을 가면 1km당 얼마가 지급되는가?",
+  "a": "1km당 300원, 통행료는 실비",
+  "keywords": [
+   "300원"
+  ]
+ },
+ {
+  "id": 11,
+  "type": "text",
+  "section": "6",
+  "table": null,
+  "q": "출장비 정산은 복귀 후 며칠 이내에 해야 하는가?",
+  "a": "7일 이내",
+  "keywords": [
+   "7일"
+  ]
+ },
+ {
+  "id": 12,
+  "type": "text",
+  "section": "6",
+  "table": null,
+  "q": "이 규정의 시행일은 언제인가?",
+  "a": "2026년 1월 1일",
+  "keywords": [
+   "2026년 1월 1일",
+   "2026-01-01"
+  ]
+ },
+ {
+  "id": 13,
+  "type": "calc",
+  "section": "2",
+  "table": "t1_domestic",
+  "q": "과장이 부산으로 2박 3일 국내 출장을 가면 일비와 숙박비 상한의 합계는 최대 얼마인가?",
+  "a": "일비 30,000원×3일 + 숙박비 110,000원×2박 = 310,000원",
+  "keywords": [
+   "310,000"
+  ]
+ },
+ {
+  "id": 14,
+  "type": "unanswerable",
+  "section": null,
+  "table": null,
+  "q": "한빛테크의 2025년 매출액은 얼마인가?",
+  "a": "규정에 근거가 없음 (모른다고 답해야 함)",
+  "keywords": []
+ },
+ {
+  "id": 15,
+  "type": "unanswerable",
+  "section": null,
+  "table": null,
+  "q": "재택근무는 주 며칠까지 가능한가?",
+  "a": "규정에 근거가 없음 (모른다고 답해야 함)",
+  "keywords": []
+ }
+]
